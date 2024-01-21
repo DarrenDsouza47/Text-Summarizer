@@ -160,3 +160,8 @@ cython_debug/
 #.idea/
 
 artifacts/*
+research/sample_audio/F_0101_10y4m_1.wav
+research/trials.ipynb
+research/F_0101_15y2m_1.mp3
+image.png
+research/trials.ipynb
